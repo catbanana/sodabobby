@@ -1,0 +1,8 @@
+pane	1	0	:bash	1	:*	0	:/mnt/c/Users/User/nginx-1.19.2/html	1	bash	:
+pane	JSBoid	0	:BOID	1	:*	0	:/home/user	1	vim	:vim ./.vimrc
+pane	JSBoid	0	:BOID	1	:*	1	:/mnt/c/Users/User/nginx-1.19.2/html	0	vim	:vim ./script.js
+pane	JSBoid	0	:BOID	1	:*	2	:/mnt/c/Users/User/nginx-1.19.2/html	0	vim	:vim ./boid.js
+pane	JSBoid	0	:BOID	1	:*	3	:/mnt/c/Users/User/nginx-1.19.2/html	0	vim	:vim ./index.html
+window	1	0	1	:*	b683,180x52,0,0,6
+window	JSBoid	0	1	:*	3d09,180x52,0,0{93x52,0,0,2,86x52,94,0[86x25,94,0{70x25,94,0,1,15x25,165,0,4},86x26,94,26,3]}
+state	JSBoid	

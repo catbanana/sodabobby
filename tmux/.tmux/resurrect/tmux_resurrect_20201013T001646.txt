@@ -1,0 +1,5 @@
+pane	0	0	:bash	1	:*	0	:/home/user	0	bash	:git commit
+-bash
+pane	0	0	:bash	1	:*	1	:/home/user/sodabobby/vim/.vim/bundle	1	bash	:
+window	0	0	1	:*	19ed,207x52,0,0{102x52,0,0,0,104x52,103,0,1}
+state	0	

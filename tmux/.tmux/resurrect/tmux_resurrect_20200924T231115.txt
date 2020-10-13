@@ -1,0 +1,8 @@
+pane	Boids!	0	:coooddding	0	:-	0	:/mnt/c/users/user/nginx-1.19.2/html	0	vim	:vim index.html
+pane	Boids!	0	:coooddding	0	:-	1	:/mnt/c/users/user/nginx-1.19.2/html	1	bash	:
+pane	Boids!	0	:coooddding	0	:-	2	:/mnt/c/users/user/nginx-1.19.2/html	0	vim	:vim boid.js
+pane	Boids!	0	:coooddding	0	:-	3	:/mnt/c/users/user/nginx-1.19.2/html	0	vim	:vim script.js
+pane	Boids!	1	:bash	1	:*	0	:/home/user/javaboid	1	bash	:
+window	Boids!	0	0	:-	3f59,171x52,0,0[171x26,0,0{85x26,0,0,0,85x26,86,0,4},171x25,0,27{85x25,0,27,1,85x25,86,27,2}]
+window	Boids!	1	1	:*	b6c2,171x52,0,0,5
+state	Boids!	

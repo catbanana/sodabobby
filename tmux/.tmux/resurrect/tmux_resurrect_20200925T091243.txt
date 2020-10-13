@@ -1,0 +1,4 @@
+pane	AWS&Local	0	:localvim2awsvim	1	:*	0	:/home/user	0	bash	:-bash
+pane	AWS&Local	0	:localvim2awsvim	1	:*	1	:/home/user/sodabobby/vim/.vim/bundle/landscape.vim	1	bash	:
+window	AWS&Local	0	1	:*	628d,104x51,0,0[104x25,0,0,0,104x25,0,26,1]
+state	AWS&Local	

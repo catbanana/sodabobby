@@ -1,0 +1,4 @@
+pane	0	0	:bash	1	:*	0	:/home/user	1	bash	:git commit
+-bash
+window	0	0	1	:*	b81d,207x52,0,0,0
+state	0	
