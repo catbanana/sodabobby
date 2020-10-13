@@ -1,3 +1,9 @@
 [submodule "vim/.vim/bundle/landscape.vim"]
 	path = vim/.vim/bundle/landscape.vim
 	url = https://github.com/itchyny/landscape.vim
+[submodule "vim/.vim/bundle/lightline.vim"]
+	path = vim/.vim/bundle/lightline.vim
+	url = https://github.com/itchyny/lightline.vim
+[submodule "vim/.vim/bundle/tmuxline.vim"]
+	path = vim/.vim/bundle/tmuxline.vim
+	url = https://github.com/edkolev/tmuxline.vim
