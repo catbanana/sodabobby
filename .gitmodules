@@ -1,0 +1,3 @@
+[submodule "vim/.vim/bundle/landscape.vim"]
+	path = vim/.vim/bundle/landscape.vim
+	url = https://github.com/itchyny/landscape.vim
