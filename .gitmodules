@@ -7,3 +7,9 @@
 [submodule "vim/.vim/bundle/tmuxline.vim"]
 	path = vim/.vim/bundle/tmuxline.vim
 	url = https://github.com/edkolev/tmuxline.vim
+[submodule "tmux/tmux-resurrect"]
+	path = tmux/tmux-resurrect
+	url = https://github.com/tmux-plugins/tmux-resurrect
+[submodule "tmux/tmux-continuum"]
+	path = tmux/tmux-continuum
+	url = https://github.com/tmux-plugins/tmux-continuum
