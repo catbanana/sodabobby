@@ -6,7 +6,10 @@ syntax on
 set timeoutlen=10 ttimeoutlen=0
 " make Vim behave in a more useful way
  set nocompatible
+set number
 "
+autocmd FileType python map <buffer> <S-e> :w<CR>:!/usr/bin/env python %<CR>
+
 " " define number of colors
  set t_Co=256
 "
