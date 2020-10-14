@@ -13,3 +13,6 @@
 [submodule "tmux/tmux-continuum"]
 	path = tmux/tmux-continuum
 	url = https://github.com/tmux-plugins/tmux-continuum
+[submodule "vim/.vim/bundle/dispatch.vim"]
+	path = vim/.vim/bundle/dispatch.vim
+	url = https://tpope.io/vim/dispatch.git
